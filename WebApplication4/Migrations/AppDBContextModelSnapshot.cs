@@ -46,7 +46,7 @@ namespace WebApplication4.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int?>("CategoryId")
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
@@ -89,7 +89,7 @@ namespace WebApplication4.Migrations
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("ProductImages");
+                    b.ToTable("ProductImage");
                 });
 
             modelBuilder.Entity("WebApplication4.Models.Slider", b =>
@@ -99,6 +99,9 @@ namespace WebApplication4.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ImgUrl")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Offer")
                         .IsRequired()
@@ -117,13 +120,51 @@ namespace WebApplication4.Migrations
                     b.ToTable("Sliders");
                 });
 
+            modelBuilder.Entity("WebApplication4.Models.Tag", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tags");
+                });
+
+            modelBuilder.Entity("WebApplication4.Models.TagProduct", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TagId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.HasIndex("TagId");
+
+                    b.ToTable("TagProducts");
+                });
+
             modelBuilder.Entity("WebApplication4.Models.Product", b =>
                 {
                     b.HasOne("WebApplication4.Models.Category", "Category")
                         .WithMany("Products")
-                        .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CategoryId");
 
                     b.Navigation("Category");
                 });
@@ -139,6 +180,25 @@ namespace WebApplication4.Migrations
                     b.Navigation("Product");
                 });
 
+            modelBuilder.Entity("WebApplication4.Models.TagProduct", b =>
+                {
+                    b.HasOne("WebApplication4.Models.Product", "Product")
+                        .WithMany("TagProducts")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("WebApplication4.Models.Tag", "Tag")
+                        .WithMany("TagProducts")
+                        .HasForeignKey("TagId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+
+                    b.Navigation("Tag");
+                });
+
             modelBuilder.Entity("WebApplication4.Models.Category", b =>
                 {
                     b.Navigation("Products");
@@ -147,6 +207,13 @@ namespace WebApplication4.Migrations
             modelBuilder.Entity("WebApplication4.Models.Product", b =>
                 {
                     b.Navigation("ProductImages");
+
+                    b.Navigation("TagProducts");
+                });
+
+            modelBuilder.Entity("WebApplication4.Models.Tag", b =>
+                {
+                    b.Navigation("TagProducts");
                 });
 #pragma warning restore 612, 618
         }

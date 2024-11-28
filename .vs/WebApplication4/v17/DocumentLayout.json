@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\viewmodels\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\viewmodels\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\helpers\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\helpers\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\models\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\migrations\\20241128170032_add1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\migrations\\20241128170032_add1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\migrations\\20241128164840_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\migrations\\20241128164840_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\migrations\\20241128192130_asdadsddsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\migrations\\20241128192130_asdadsddsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\migrations\\20241128183816_asdadsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\migrations\\20241128183816_asdadsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|c:\\users\\user\\desktop\\crud\\webapplication4\\migrations\\20241128175941_asdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D591-1D89-47CC-B6D4-3E20AF48C18D}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\migrations\\20241128175941_asdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:51:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAcwJoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:36:41.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T17:13:10.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T17:58:50.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T17:02:57.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T17:13:07.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241128192130_asdadsddsa.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128192130_asdadsddsa.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\20241128192130_asdadsddsa.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128192130_asdadsddsa.cs",
+              "RelativeToolTip": "WebApplication4\\Migrations\\20241128192130_asdadsddsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:21:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Helpers\\Extensions\\FileExtensions.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Helpers\\Extensions\\FileExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Helpers\\Extensions\\FileExtensions.cs",
+              "RelativeToolTip": "WebApplication4\\Helpers\\Extensions\\FileExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:39:47.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Controllers\\DashBoard.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Controllers\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Controllers\\DashBoard.cs",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Controllers\\DashBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:46:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\ViewModels\\Product\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\ViewModels\\Product\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\ViewModels\\Product\\UpdateProductVM.cs",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\ViewModels\\Product\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:56:25.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\ViewModels\\Product\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\ViewModels\\Product\\CreateProduct.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\ViewModels\\Product\\CreateProduct.cs",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\ViewModels\\Product\\CreateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:30:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:57:42.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "WebApplication4\\DAL\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:20:19.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T19:32:18.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:20:13.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241128183816_asdadsd.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128183816_asdadsd.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\20241128183816_asdadsd.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128183816_asdadsd.cs",
+              "RelativeToolTip": "WebApplication4\\Migrations\\20241128183816_asdadsd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:38:16.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\Tag.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:34:55.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAMwFIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T16:47:21.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TagProduct.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\TagProduct.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\TagProduct.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\TagProduct.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\TagProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:35:06.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T17:02:55.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241128175941_asdad.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128175941_asdad.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\20241128175941_asdad.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128175941_asdad.cs",
+              "RelativeToolTip": "WebApplication4\\Migrations\\20241128175941_asdad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:59:41.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T18:08:21.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:57:49.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241128170032_add1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128170032_add1.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\20241128170032_add1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128170032_add1.cs",
+              "RelativeToolTip": "WebApplication4\\Migrations\\20241128170032_add1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:00:34.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Models\\Slider.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:50:53.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241128164840_add.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128164840_add.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\20241128164840_add.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Migrations\\20241128164840_add.cs",
+              "RelativeToolTip": "WebApplication4\\Migrations\\20241128164840_add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:48:46.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Areas\\AdminPanel\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Areas\\AdminPanel\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Areas\\AdminPanel\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T16:47:03.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T16:46:50.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication4\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\appsettings.json",
+              "RelativeToolTip": "WebApplication4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T16:46:37.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\crud\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:46:36.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

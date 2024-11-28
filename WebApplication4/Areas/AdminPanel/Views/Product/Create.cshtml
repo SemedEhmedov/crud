@@ -1,4 +1,4 @@
-﻿@model Product
+﻿@model CreateProduct
 
 <div class="container">
 
@@ -21,10 +21,17 @@
 
         <div class="form-group">
             <label asp-for="CategoryId">Category select</label>
-            <select class="form-control" id="exampleFormControlSelect1">
-                <option value = "1">roman</option>
-                <option value = "2">mifik</option>
-                <option value = "3">fantastik</option>
+            <select class="form-control" asp-for="CategoryId" asp-items=@(new SelectList(ViewBag.Categories,"Id","Name"))>
+                <option >Select Category</option>
+              
+
+            </select>
+        </div>
+        <div class="form-group">
+            <label asp-for="TagIds">Tag select</label>
+            <select class="form-control" asp-for="TagIds" asp-items=@(new SelectList(ViewBag.Tags,"Id","Name"))>
+                <option>Select Tag</option>
+
 
             </select>
         </div>
@@ -32,13 +39,10 @@
         <div class="form-group">
             <label asp-for="Description">Description</label>
             <textarea class="form-control"asp-for="Description" rows="3"></textarea>
-            <span asp-validation-for="Name" style="color:red"></span>
+            <span asp-validation-for="Description" style="color:red"></span>
         </div>
 
-            <div class="form-group">
-                <label for="exampleFormControlFile1">Example file input</label>
-                <input type="file" class="form-control-file" id="exampleFormControlFile1">
-            </div>
+        
       
 
         <button type="submit" class="btn btn-primary">Submit</button>
